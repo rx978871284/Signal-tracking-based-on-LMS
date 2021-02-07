@@ -5,6 +5,8 @@ The least mean square (LMS) algorithm is an improved algorithm of the steepest d
 ## Hardware
 Option 1: PYNQ-Z2.  
 Option 2: Kintex-7 series xc7k325tffg900.  
+![image](https://github.com/rx978871284/Signal-tracking-based-on-LMS/blob/main/image/7k325t.png)
+
 ## Labs Overview
 Lab1: The single frequency wave is used as the input signal, and the single frequency wave with different phase and amplitude is used as the expected signal. Make the filter output signal track the desired signal,  and continuously improve the performance to speed up the convergence speed and reduce the steady-state error.  
 Lab2: Convert single frequency wave to white noise of different frequency band and verify performance.
