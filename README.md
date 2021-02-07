@@ -5,9 +5,4 @@ The least mean square (LMS) algorithm is an improved algorithm of the steepest d
 ## Hardware
 Option 1: PYNQ-Z2.  
 Option 2: Kintex-7 series xc7k325tffg900.  
-  <p align="center">
-   <img src ="./image/7k325t.png">
-   </p>
-   <p align = "center">
-   <i>The design under consideration</i>
-</p>
+
