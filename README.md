@@ -6,3 +6,4 @@ The least mean square (LMS) algorithm is an improved algorithm of the steepest d
 Option 1: PYNQ-Z2.  
 Option 2: Kintex-7 series xc7k325tffg900.  
 
+![Image text](https://github.com/rx978871284/Signal-tracking-based-on-LMS/blob/main/image/7k325t.png)
