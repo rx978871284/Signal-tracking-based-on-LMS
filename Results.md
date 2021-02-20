@@ -1,1 +1,1 @@
-![image](https://github.com/rx978871284/Signal-tracking-based-on-LMS/tree/main/image)
+![image](https://github.com/rx978871284/Signal-tracking-based-on-LMS/blob/main/image/7k325t.png)
